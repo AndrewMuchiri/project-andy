@@ -5,3 +5,5 @@
  {this webpage was created to test the skills i have learnt in my firstt week of school. its a simple weppage with not so much into it apart from a basic html file, some styling from css.}
  ## Technologies used
  {Termial, VSCode, Google Chrome}
+ ## Known Bugs{there are no known bugs}
+ 
