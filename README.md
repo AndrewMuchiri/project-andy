@@ -8,3 +8,4 @@
  ## Known Bugs{there are no known bugs}
  ## Support and Contact details
  {contact email christlifeshiri@gmail.com}
+ ### Copyright (c) {2020} **{Andrew Muchiri}
